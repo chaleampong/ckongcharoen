@@ -4,7 +4,7 @@ draft: false
 linktitle: Useful readings
 menu:
   example:
-    parent: Learning resources
+    parent: EC628 Time-Series Econometrics
     weight: 3
 title: Useful readings
 toc: true

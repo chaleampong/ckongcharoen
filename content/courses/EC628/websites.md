@@ -4,7 +4,7 @@ draft: false
 linktitle: Useful websites
 menu:
   example:
-    parent: Learning resources
+    parent: EC628 Time-Series Econometrics
     weight: 2
 title: Useful websites
 toc: true

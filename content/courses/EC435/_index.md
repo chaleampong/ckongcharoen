@@ -2,16 +2,16 @@
 date: "2018-09-09T00:00:00Z"
 draft: false
 lastmod: "2018-09-09T00:00:00Z"
-linktitle: EC435 Introducton to Financial Econometrics
+linktitle: EC435 Introduction to Financial Econometrics
 menu:
   example:
-    name: EC435 Introducton to Financial Econometrics
+    name: EC435 Introduction to Financial Econometrics
     weight: 1
 summary: Introduction Financial Econometrics
 title: Overview
-toc: true
+toc: false
 type: docs
 weight: 1
 ---
 
-Overview of EC435
+This is undergraduate course on financial econometrics. The topics includes univariate time series model, time series regression, volatility model, multivariate time series model and nonstationary model.
