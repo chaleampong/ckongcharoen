@@ -1,12 +1,12 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
 draft: false
-linktitle: Useful books
+linktitle: Homework
 menu:
   example:
     parent: Learning resources
     weight: 1
-title: Useful books
+title: Homework
 toc: true
 type: docs
 weight: 1

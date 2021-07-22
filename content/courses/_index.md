@@ -1,8 +1,7 @@
 ---
 header:
-  caption: ""
+  caption: "Courses"
   image: ""
 layout: docs
-title: Courses
+title: Teaching
 ---
-
