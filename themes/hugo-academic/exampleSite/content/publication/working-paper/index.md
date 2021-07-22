@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Working paper"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -44,7 +44,7 @@ url_video: '#'
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
