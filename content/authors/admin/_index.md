@@ -53,6 +53,8 @@ user_groups:
 
 Chaleampong Kongcharoen is an assistant professor at Thammasat University, Bangkok, Thailand.  His research interests include time-series econometrics, macroeconometrics and inequality.  He is also a member of the [Center for Research on Inequality and Social Policy (CRISP)](http://www.crisp.econ.tu.ac.th/).
 
+เฉลิมพงษ์ คงเจริญ เป็นผู้ช่วยศาสตราจารย์ประจำคณะเศรษฐศาสตร์ มหาวิทยาลัยธรรมศาสตร์ งานวิจัยที่สนใจได้แก่ เศรษฐมิติอนุกรมเวลา เศรษฐมิติมหภาค และความเหลื่อมล้ำ
+
 
 
 
