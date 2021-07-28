@@ -23,10 +23,10 @@ abstract: Trend on Inequality and Well-Being of Thai Households This paper inves
 
 
 # Summary. An optional shortened abstract.
-summary: any
+summary: Trend on Inequality and Well-Being of Thai Households This paper investigates inequality trend between 1988 and 2017 in multidimensional aspects using the Thailand Socio-Economic Survey (SES).
 
 tags:
-- Source Themes
+- Inequality
 featured: false
 
 links:
@@ -64,8 +64,3 @@ image:
 #slides: example
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
