@@ -31,6 +31,7 @@ image:
 projects: []
 ---
 
-[ตัวเล่ม จากสำนักพิมพ์] {https://thammasatpress.tu.ac.th/wp_tupress/product/67080}
+[ตัวเล่ม จากสำนักพิมพ์]{https://thammasatpress.tu.ac.th/wp_tupress/product/67080}
 
 
+---
