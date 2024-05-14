@@ -31,6 +31,6 @@ image:
 projects: []
 ---
 
-[ตัวเล่ม จากสำนักพิมพ์] {https://thammasatpress.tu.ac.th/wp_tupress/product/เศรษฐมิติทางการเงินเบื/}
+[ตัวเล่ม จากสำนักพิมพ์] {https://thammasatpress.tu.ac.th/wp_tupress/product/67080/}
 
-[ebook se-ed]{https://www.se-ed.com/product/เศรษฐมิติทางการเงินเบื้องต้น-PDF.aspx?no=9786163147448}
+
