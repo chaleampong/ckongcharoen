@@ -1,37 +1,52 @@
 ---
-title: 'Introduction to Financial Econometrics'
-subtitle: 'เศรษฐมิติทางการเงินเบื้องต้น พร้อมตัวอย่างการใช้โปรแกรม R'
-summary: Undergraduate bood for financial econometrics. Topics include univariate time series (ARIMA) model, time series regression, GARCH model, multivariate model (VAR), and nonstationary model  (cointegration and VECM).
+title: "Introduction to Financial Econometrics"
+subtitle: "เศรษฐมิติทางการเงินเบื้องต้น พร้อมตัวอย่างการใช้โปรแกรม R ฉบับพิมพ์ครั้งที่ 2"
 authors:
-- admin
+  - admin
+date: "2024-01-01"
+doi: ""
 tags:
-- Academic
-categories:
-- Demo
-date: "2021-07-20T00:00:00Z"
-#lastmod: "2019-04-17T00:00:00Z"
-featured: true
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  - Academic
 image:
-  placement: 2
-  caption: 'Image credit: ploypopo'
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+  caption: ""
+  focal_point: Smart
+links:
+  - name: "ซื้อหนังสือ / Order Book"
+    url: "http://tubookstores.lnwshop.com/product/377"
+    icon_pack: fas
+    icon: shopping-cart
 ---
 
-[ตัวเล่ม จากสำนักพิมพ์]{https://thammasatpress.tu.ac.th/wp_tupress/product/67080}
+**เศรษฐมิติทางการเงินเบื้องต้น พร้อมตัวอย่างการใช้โปรแกรม R ฉบับพิมพ์ครั้งที่ 2**
 
+*Introduction to Financial Econometrics with R Examples, 2nd Edition*
+
+Kongcharoen, Chaleampong. Thammasat University Press, 2567 (2024).
 
 ---
+
+## About the Book
+
+This textbook introduces econometric methods for analysing financial and macroeconomic time series data, with hands-on examples using the R programming language. Written in Thai, it serves as the required textbook for EC435 Introduction to Financial Econometrics at the Faculty of Economics, Thammasat University.
+
+The second edition has been fully revised and expanded to include new topics and updated R examples throughout.
+
+---
+
+## Contents
+
+1. Introduction: financial time series and return calculation
+2. Statistical characteristics of financial time series
+3. Linear time series models — AR, MA, and ARMA models
+4. Dynamic time series regression
+5. Volatility models — ARCH and GARCH
+6. Multivariate time series — Vector Autoregressive (VAR) model
+7. Cointegration and Vector Error Correction Model (VECM)
+
+---
+
+## Order
+
+Available from **Thammasat University Book Store**:
+
+[ซื้อหนังสือ / Order here](http://tubookstores.lnwshop.com/product/377/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1-r-financial-econometrics-%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88)
