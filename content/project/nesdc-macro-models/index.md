@@ -10,6 +10,7 @@ date: "2016-01-01"
 external_link: ""
 image:
   focal_point: Smart
+weight: 4
 ---
 
 Provided macroeconomic modelling services to the National Economic and Social Development

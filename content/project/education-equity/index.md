@@ -9,6 +9,7 @@ date: "2025-01-01"
 external_link: ""
 image:
   focal_point: Smart
+Weight: 2
 ---
 
 In collaboration with Assoc. Prof. Dr. Thorn Pitidol and team, conducted two related

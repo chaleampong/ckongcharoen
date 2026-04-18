@@ -8,6 +8,7 @@ date: "2017-01-01"
 external_link: ""
 image:
   focal_point: Smart
+weight: 13
 ---
 
 Submitted to Thailand's Energy Conservation Fund (กองทุนอนุรักษ์พลังงาน), this project

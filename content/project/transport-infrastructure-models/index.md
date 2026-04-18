@@ -8,6 +8,7 @@ date: "2018-01-01"
 external_link: ""
 image:
   focal_point: Smart
+weight: 9
 ---
 
 Submitted to the Public Debt Management Office (สำนักบริหารหนี้สาธารณะ), these two

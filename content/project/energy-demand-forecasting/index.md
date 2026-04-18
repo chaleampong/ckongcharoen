@@ -9,6 +9,7 @@ date: "2014-01-01"
 external_link: ""
 image:
   focal_point: Smart
+weight: 11
 ---
 
 Submitted to Thailand's Energy Policy and Planning Office (สำนักงานนโยบายและแผนพลังงาน),

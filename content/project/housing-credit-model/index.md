@@ -4,10 +4,12 @@ summary: "Developed an econometric model to forecast housing mortgage credit for
 tags:
   - Financial Econometrics
   - Time Series
+  - Macroeconomics
 date: "2017-01-01"
 external_link: ""
 image:
   focal_point: Smart
+weight: 7
 ---
 
 As principal investigator, developed a forecasting model for housing mortgage credit

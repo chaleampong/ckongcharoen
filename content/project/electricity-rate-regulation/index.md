@@ -8,6 +8,7 @@ date: "2022-01-01"
 external_link: ""
 image:
   focal_point: Smart
+weigth: 12
 ---
 
 This project studied the regulatory framework and practical guidelines for governing

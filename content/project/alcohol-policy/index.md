@@ -8,6 +8,7 @@ date: "2023-01-01"
 external_link: ""
 image:
   focal_point: Smart
+weight: 8
 ---
 
 As principal investigator, led two major policy evaluation projects on alcohol regulation

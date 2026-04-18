@@ -8,6 +8,7 @@ date: "2022-01-01"
 external_link: ""
 image:
   focal_point: Smart
+weight: 6
 ---
 
 Provided analytical and systems design services to Thailand's Budget Bureau

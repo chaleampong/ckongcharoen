@@ -9,6 +9,7 @@ date: "2025-01-01"
 external_link: ""
 image:
   focal_point: Smart
+weight: 1
 ---
 
 Since 2018, a sustained series of projects has been carried out for the Government
