@@ -24,6 +24,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/chaleampong-kongcharoen/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/@chaleampong
 #- icon: cv
 #  icon_pack: ai
 #  link: files/cv.pdf
