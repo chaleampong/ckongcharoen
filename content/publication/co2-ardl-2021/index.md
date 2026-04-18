@@ -1,0 +1,11 @@
+---
+title: "Factors Contributing CO2 Emissions: A Linear, Nonlinear, and Panel ARDL Model"
+authors:
+  - Chaleampong Kongcharoen
+  - Basri Rabeya
+date: "2021-01-01"
+publication_types: ["2"]
+publication: "*International Journal of Economy Energy and Environment*, 6(2), 46–66"
+
+abstract: The study examines the linear and nonlinear relationships between per capita carbon dioxide emissions, per capita real GDP, energy consumption, financial development, foreign direct investment, trade openness, urbanization, agriculture, and industry sectors as potential determining factors of CO2 emissions in the perspective of Bangladesh all through 44 years, starting from 1974. The study also considers the CO2 emissions from the selected South Asian countries over the period from 1978 and 2018. The study uses three cointegration approaches. First, we employ linear cointegration method and find that crucial determining factors of CO2 emissions in Bangladesh are real GDP per capita, energy consumption, and urbanization. Then, we apply the nonlinear cointegration method and find that energy consumption and foreign direct investment have asymmetric impacts on carbon release in the long run. While energy consumption, financial development, and FDI have asymmetric influence in the short run. Finally, we apply a panel cointegration test to compare Bangladesh with other South Asian countries in terms of CO2 emissions. The estimated results disclose that the vital contributing factors of CO2 emissions in selected South Asian countries are real GDP, energy consumption, financial development, and urbanization. Our results show that energy consumption, financial development, and urbanization upturn CO2 emissions, while trade openness lowers emissions. We claim that our results are consistent with the EKC hypothesis for both in Bangladesh and selected South Asian countries. The three cointegration estimation findings disclose that urbanization will deteriorate environmental worth in Bangladesh and selected South Asian countries in the long run.
+---

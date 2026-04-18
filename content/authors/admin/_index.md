@@ -7,7 +7,7 @@ name: Chaleampong Kongcharoen
 organizations:
 - name: Faculty of Economics, Thammasat University
   url: https://www.econ.tu.ac.th
-role: Assistant Professor of Economics
+role: Assistant Professor of Economics, Associated Dean on Academic Affairs
 social:
 - icon: envelope
   icon_pack: fas
@@ -29,9 +29,11 @@ social:
 #  link: files/cv.pdf
 
 interests:
-- Time-series econometrics
-- Macroeconometrics
-- Poverty and inequality
+  - Time-series Econometrics
+  - Macroeconometrics
+  - Poverty and Inequality
+  - Financial Econometrics
+  - Health and Alcohol Policy
 
 education:
   courses:
@@ -51,7 +53,11 @@ user_groups:
 - Visitors
 ---
 
-Chaleampong Kongcharoen is an assistant professor at Thammasat University, Bangkok, Thailand.  His research interests include time-series econometrics, macroeconometrics and inequality.  He is also a member of the [Center for Research on Inequality and Social Policy (CRISP)](http://www.crisp.econ.tu.ac.th/).
+Chaleampong Kongcharoen is an Associate Dean for Academic Affairs and Assistant Professor 
+at the Faculty of Economics, Thammasat University, Bangkok, Thailand. His research interests 
+include time-series econometrics, macroeconometrics, inequality, financial econometrics, and 
+health economics. He is a member of the 
+[Center for Research on Inequality and Social Policy (CRISP)](http://www.crisp.econ.tu.ac.th/).
 
 เฉลิมพงษ์ คงเจริญ เป็นผู้ช่วยศาสตราจารย์ประจำคณะเศรษฐศาสตร์ มหาวิทยาลัยธรรมศาสตร์ งานวิจัยที่สนใจได้แก่ เศรษฐมิติอนุกรมเวลา เศรษฐมิติมหภาค และความเหลื่อมล้ำ
 
