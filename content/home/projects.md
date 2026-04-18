@@ -21,17 +21,41 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
-  
-  [[content.filter_button]]
-    name = "Inequality"
-    tag = "Inequality"
-  
-  [[content.filter_button]]
-    name = "Time Series"
-    tag = "Time Series"
+[[content.filter_button]]
+  name = "All"
+  tag = "*"
+
+[[content.filter_button]]
+  name = "Macroeconomics"
+  tag = "Macroeconomics"
+
+[[content.filter_button]]
+  name = "Time Series"
+  tag = "Time Series"
+
+[[content.filter_button]]
+  name = "Inequality"
+  tag = "Inequality"
+
+[[content.filter_button]]
+  name = "Policy Evaluation"
+  tag = "Policy Evaluation"
+
+[[content.filter_button]]
+  name = "Financial Econometrics"
+  tag = "Financial Econometrics"
+
+[[content.filter_button]]
+  name = "Energy"
+  tag = "Energy"
+
+[[content.filter_button]]
+  name = "Health Policy"
+  tag = "Health Policy"
+
+[[content.filter_button]]
+  name = "Education"
+  tag = "Education"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
